@@ -5,7 +5,7 @@
 
 -->
 - 🌱 I’m currently learning Flutter
-- 🔭 I’m currently working on developing a money 💰 savings (Susu) app with Flutter
+- 🔭 I’m working on developing a money 💰 savings (Susu) app with Flutter
 - 👯 I’m looking to collaborate on any Python or Java project
 - 📫 How to reach me: hopefuledi@gmail.com
 
